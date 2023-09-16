@@ -1,0 +1,48 @@
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/cradily
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/pawniard
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/purugly
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/quilava
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/tepig
+-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/spearow/magneton4
+-rwxrwxrwx@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/bayleef
+-rwxrwxrwx@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/lillipup
+-rwxrwxrwx@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/nidorino
+-rwxrwxrwx@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/spheal
+-rwxr-xr-x@ 1 rublev  staff  203 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/quilavachingling
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:88:		# annotated tag
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:81:		# delete tag
+/Users/rublev/DEV/script_for_terminal//.git/hooks/fsmonitor-watchman.sample:8:# (https://facebook.github.io/watchman/) with git to speed up detecting
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:8:# Config
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:72:		# un-annotated tag
+/Users/rublev/DEV/script_for_terminal//script.sh:55:mkdir chingling
+/Users/rublev/DEV/script_for_terminal//.git/hooks/pre-rebase.sample:5:# The "pre-rebase" hook is run just before "git rebase" starts doing
+/Users/rublev/DEV/script_for_terminal//tmp/results.log:5:-rwxr-xr-x@ 1 rublev  staff    0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/tepig
+/Users/rublev/DEV/script_for_terminal//script.sh:46:touch tepig
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:45:# --- Config
+/Users/rublev/DEV/script_for_terminal//script.sh:227:rm -r quilavachingling
+/Users/rublev/DEV/script_for_terminal//script.sh:225:rm tepig
+/Users/rublev/DEV/script_for_terminal//.git/hooks/fsmonitor-watchman.sample:21:# Uncomment for debugging
+/Users/rublev/DEV/script_for_terminal//script.sh:183:touch results.log
+/Users/rublev/DEV/script_for_terminal//script.sh:182:touch error.log
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:16:# hooks.allowmodifytag
+/Users/rublev/DEV/script_for_terminal//script.sh:158:# Создание символической ссылки chingling4 в директории pidgeotto6 с именем quilavachingling
+/Users/rublev/DEV/script_for_terminal//script.sh:132:chmod 046 tepig
+/Users/rublev/DEV/script_for_terminal//.git/hooks/update.sample:13:# hooks.allowdeletetag
+/Users/rublev/DEV/script_for_terminal//.git/hooks/commit-msg.sample:12:# Doing this in a hook is a bad idea in general, but the prepare-commit-msg
+/Users/rublev/DEV/script_for_terminal//.git/hooks/pre-rebase.sample:116:(1) ... if a topic branch has ever been merged to "next".  Young
+/Users/rublev/DEV/script_for_terminal//tmp/results.log:11:-rwxr-xr-x@ 1 rublev  staff  203 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal/garchomp0/jynx/pidgeotto6/quilavachingling
+/Users/rublev/DEV/script_for_terminal//script.sh:100:chmod 632 chingling
+Binary file /Users/rublev/DEV/script_for_terminal//.DS_Store matches
+       0 /Users/rublev/DEV/script_for_terminal//chingling4
+       0 /Users/rublev/DEV/script_for_terminal//garchomp0/jynx/pidgeotto6/cradily
+       0 /Users/rublev/DEV/script_for_terminal//pidgeotto6/cradily
+     203 /Users/rublev/DEV/script_for_terminal//skuntank3/chingling4
+     313 /Users/rublev/DEV/script_for_terminal//.git/config
+     896 /Users/rublev/DEV/script_for_terminal//.git/hooks/commit-msg.sample
+-rwxrwxrwx@ 2 rublev  staff  203 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/quilavachingling
+-rwxrwxrwx@ 1 rublev  staff  0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/tepig
+-rw-r--r--@ 1 rublev  staff  0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//error.log
+-rwxrwxrwx@ 2 rublev  staff  203 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/quilavachingling
+-rwxrwxrwx@ 1 rublev  staff  0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/quilava
+-rwxrwxrwx@ 1 rublev  staff  0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/purugly
+-rwxrwxrwx@ 1 rublev  staff  0 Sep 16 22:42 /Users/rublev/DEV/script_for_terminal//pidgeotto6/cradily
